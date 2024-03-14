@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\Week 4 Task\\Week 4 Task\\Week 4 Task.csproj",
+      "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\Desktop\\DecagonTask1\\Week-4-Task\\Week 4 Task\\Week 4 Task.csproj",
       "projectName": "Week 4 Task",
-      "projectPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\Week 4 Task\\Week 4 Task\\Week 4 Task.csproj",
+      "projectPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\DecagonTask1\\Week-4-Task\\Week 4 Task\\Week 4 Task.csproj",
       "packagesPath": "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\Week 4 Task\\Week 4 Task\\obj\\",
+      "outputPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\DecagonTask1\\Week-4-Task\\Week 4 Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -19,7 +19,13 @@ namespace Week_4_Task.WelcomePage
             Console.ForegroundColor = ConsoleColor.White;
 
             //Set the welcome message
-            Console.WriteLine("\n\n                                 Welcome to My Weekly Task                       \n\n");
+            Console.WriteLine("\n\n                                               Welcome to My Weekly Task                       \n\n");
+            Console.WriteLine("\n                                        Title: Language Integrated Query (LINQ)                    \n");
+            Console.WriteLine("                                                           By:                                         ");
+            Console.WriteLine("                                                  Kehinde Peter Olubiyi                                         ");
+            
+            DateTime dateTime = DateTime.Now;
+            Console.WriteLine($"\n                                                  {dateTime}                              \n");
             Utility.Utility.PressEnterToContinue();
         }
 
